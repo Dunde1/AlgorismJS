@@ -1,2 +1,2 @@
-# backjoonJS
-backjoon 알고리즘 문제풀기
+# Algorism Javascript
+Javascript 알고리즘 문제풀기
