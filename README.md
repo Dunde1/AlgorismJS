@@ -28,3 +28,4 @@ Javascript 알고리즘 문제풀기
 ### LEVEL 3
 
 - 배열 합치기 (21. 12. 16.)
+- Binary Search (21. 12. 16.)
